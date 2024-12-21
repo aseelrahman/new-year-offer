@@ -12,6 +12,7 @@ main{
         rgba(7,2,17,0)
     ),
     url(../images/Banner\ Image.png);
+    border-radius: 16px;
 
     background-position: center;
     background-size: cover;
@@ -65,4 +66,46 @@ main{
     margin-top: 16px;
     margin-bottom: 48px;
     font-weight: bold;
+}
+
+/* Section 3 */
+.section-3{
+    height: 600px;
+    width: 1320px;
+    margin: 120px auto 120px auto;
+    background: linear-gradient(
+        to right,
+        rgba(7,2,17,1),
+        rgba(7,2,17,0)
+    ),
+    url(../images/Vectorrr.png);
+    border-radius: 16px;
+    color: white;
+    font-family: "Merriweather", serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section-3-texts{
+    margin-left: 126px;
+    
+}
+.section-3-texts h1{
+    font-size: 64px;
+}
+.section-3-texts p{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+}
+.section-3-texts h5{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Inter", serif;
+    margin-left: 32px;
+    margin-top: 48px;
+}
+.section-3 img{
+    top: 0;
+    right: 0;
+    margin-right: 138px;
 }
