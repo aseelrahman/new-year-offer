@@ -203,3 +203,52 @@ main{
     color: rgba(7, 2, 17, 0.6);
     margin-bottom: 43px;
 }
+
+/* SECTION 6 STYLES */
+.section-6{
+    height: 986.07px;
+    margin: 120px auto 120px auto;
+    background-image: url(../images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+.section-6-texts{
+    text-align: center;
+    width: 1068px;
+    height: 260px;
+    margin: 0px 126px 64px 126px;
+}
+.section-6-texts h5{
+    font-family: "Inter", serif;
+    margin-top: 0px;
+    font-size: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+}
+.section-6-texts h1{
+    font-family: "Merriweather", serif;
+    font-size: 72px;
+    margin-top: 16px;
+    margin-bottom: 28px;
+}
+.section-6-texts p{
+    font-size: 20px;
+    font-family: "Inter", serif;
+    color: rgba(7, 2, 17, 0.6);
+    margin-top: 28px;
+}
+.s6-img-box{
+    display: inline-block;
+    margin-bottom: 84.04px;
+    margin-left: 60.83px;
+    width: 674.82px;
+    height: 577.96px;
+}
+.s6-img-discount{
+    display: inline-block;
+    margin-bottom: 280px;
+    margin-right: 40.31px;
+    margin-left: 238px;
+    height: 220px;
+    width: 220px;
+}
