@@ -279,3 +279,26 @@ main{
     margin-top: 22px;
     margin-bottom: 48px;
 }
+
+/* SECTION-8 STYLES */
+.section-8{
+    height: 616px;
+    width: 1320px;
+    margin: 120px auto 120px auto;
+    background-color: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+}
+/* .section-8 form{
+    width: 648px;
+    height: 72px;
+} */
+.section-8 form input{
+    width: 438px;
+    height: 72px;
+    margin: 0;
+}
+.section-8 form button{
+    height: 72px;
+    width: 210px;
+    margin: 0;
+}
