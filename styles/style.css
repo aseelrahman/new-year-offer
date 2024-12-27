@@ -204,7 +204,7 @@ main{
     margin-bottom: 43px;
 }
 
-/* SECTION 6 STYLES */
+/* SECTION-6 STYLES */
 .section-6{
     height: 986.07px;
     margin: 120px auto 120px auto;
@@ -251,4 +251,31 @@ main{
     margin-left: 238px;
     height: 220px;
     width: 220px;
+}
+
+/* SECTION-7 STYLES */
+.section-7{
+    height: 1163px;
+    width: 1320px;
+    margin: 120px auto 120px auto;
+}
+.section-7-texts h5{
+    color: #FF0000;
+    font-size: 24px;
+    font-family: "Inter", serif;
+    margin-bottom: 16px;
+}
+.section-7-texts h1{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    margin-top: 16px;
+    margin-bottom: 22px;
+}
+.section-7-texts p{
+    font-family: "Inter", serif;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    width: 896px;
+    margin-top: 22px;
+    margin-bottom: 48px;
 }
